@@ -1,0 +1,1 @@
+class CommentExeption (message: String) : RuntimeException(message)
